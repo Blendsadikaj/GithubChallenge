@@ -1,2 +1,5 @@
 methodSecond();
+
 method4();
+
+method3(); 
