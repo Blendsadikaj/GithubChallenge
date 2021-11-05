@@ -1,2 +1,2 @@
 methodSecond();
-method3();
+method3(); 
